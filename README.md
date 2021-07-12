@@ -16,7 +16,7 @@ the given scenario successfully.
 ## Programming languages
 Python (scikit-learn, numpy, pandas)
 
-## Framework & Software:
+## Framework & Software
 TensorFlow, Keras, SUMO
 
 ## Authors
