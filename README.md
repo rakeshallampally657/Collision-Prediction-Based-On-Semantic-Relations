@@ -8,7 +8,7 @@ addition to that collisions are incorporated in the scenes. After that, data pre
 data fed to various neural network models such as Recursive forecast LSTM and
 Encoder-Decoder LSTM.
 Based on the obtained results the mean absolute error is minimal for the semantic
-entity relationship’s based LSTM encoder-decoder model, hence this model selected for collision prediction.
+entity relationship’s based LSTM encoder-decoder model, hence this model selected for collision prediction.
 Finally, the selected model tested on various collision probable scenarios. The
 outcome of the test results shows that the model detects the collision priorly in
 the given scenario successfully.
