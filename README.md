@@ -25,7 +25,7 @@ Finally, the selected model tested on various collision probable scenarios. The
 outcome of the test results shows that the model detects the collision priorly in
 the given scenario successfully.
 
-[thesis_presenation.pdf](https://github.com/rakeshallampally657/Collision-Prediction-Based-On-Semantic-Relations/files/6809340/thesis_presenation.pdf)
+[Thesis_presenation.pdf](https://github.com/rakeshallampally657/Collision-Prediction-Based-On-Semantic-Relations/files/6809340/thesis_presenation.pdf)
 
 
 ## Authors
