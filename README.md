@@ -1,7 +1,7 @@
 # Collision-Prediction-Based-On-Semantic-Relations
 
 In this thesis, a model developed to predict collision based on the predicted trajectory.
-This thesis aims to predict the trajectory of multiple objects in the scene and detect
+It aims to predict the trajectory of multiple objects in the scene and detect
 the collision. For this purpose, in the SUMO driving behaviour of the ego vehicle
 and object vehicles are generated. The training and testing scenes generated, in
 addition to that collisions are incorporated in the scenes. After that, data pre-processed in the form of a semantic entity-relationship model. Subsequently, that
