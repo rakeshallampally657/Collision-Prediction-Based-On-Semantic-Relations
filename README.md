@@ -11,6 +11,7 @@ Python (scikit-learn, numpy, pandas)
 ## Framework & Software
 TensorFlow, Keras, SUMO
 
+# Overview
 In this thesis, a model developed to predict collision based on the predicted trajectory.
 It aims to predict the trajectory of multiple objects in the scene and detect
 the collision. For this purpose, in the SUMO simulation software driving behaviour of the ego vehicle
