@@ -1,4 +1,15 @@
+## Master Thesis at IAV GMBH
+![1519855970181](https://user-images.githubusercontent.com/79206625/125457028-b44bc8d9-fdbf-49e6-8ca8-82e4d1db6fa0.png)
+
+
+
 # Collision-Prediction-Based-On-Semantic-Relations
+
+## Programming languages
+Python (scikit-learn, numpy, pandas)
+
+## Framework & Software
+TensorFlow, Keras, SUMO
 
 In this thesis, a model developed to predict collision based on the predicted trajectory.
 It aims to predict the trajectory of multiple objects in the scene and detect
@@ -13,11 +24,7 @@ Finally, the selected model tested on various collision probable scenarios. The
 outcome of the test results shows that the model detects the collision priorly in
 the given scenario successfully.
 
-## Programming languages
-Python (scikit-learn, numpy, pandas)
 
-## Framework & Software
-TensorFlow, Keras, SUMO
 
 ## Authors
 - Rakesh Allampally - Main Contributor - @ra-171967
